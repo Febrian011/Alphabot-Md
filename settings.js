@@ -15,7 +15,7 @@ global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
 }
 
-//buy apikey premium 0887435047326
+//buy apikey premium 085256216489
 // Free apikey (silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
@@ -55,16 +55,16 @@ global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62821931157232"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "62887435047326" // nomor wa kalian
+global.premium = ['62895406527619'] //premium user
+global.owner = ["6285256216589", "62895406527619"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285256216489" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© ' + botname //sticker wm ubah
-global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
+global.packname = '© dibuat oleh gw' + botname //sticker wm ubah
+global.author = 'Created By gw ya bngst' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
 //type menu for menu
